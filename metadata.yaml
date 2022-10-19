@@ -1,0 +1,32 @@
+_repo: Vlindertje-een-Haagsche-roman_69163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Borel, Henri
+    aliases:
+    - Borel, Henri Jean François
+    - Borel, Henri Jean Francois
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '44801'
+    url: http://www.gutenberg.org/2009/agents/44801
+    wikipedia: https://nl.wikipedia.org/wiki/Henri_Borel
+description: ''
+gutenberg_issued: '2022-10-15'
+identifiers:
+  gutenberg: '69163'
+language: nl
+pgterms:marc905: 20181022125717borel
+pgterms:marc906: '1901'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: 'Netherlands: P.N. van Kampen,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vlindertje: een Haagsche roman'
+url: http://www.gutenberg.org/ebooks/69163
