@@ -1,5 +1,8 @@
 _repo: Vlindertje-een-Haagsche-roman_69163
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69163-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Borel, Henri
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44801
     wikipedia: https://nl.wikipedia.org/wiki/Henri_Borel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69163#Vlindertje-een-Haagsche-roman
 gutenberg_issued: '2022-10-15'
 identifiers:
   gutenberg: '69163'
